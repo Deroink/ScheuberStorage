@@ -26,7 +26,13 @@ USF Computer Club
 <body>
 
 <header>
-<h1> Scheuber Meme Dream Cave </h1>
+	<h1> K.W.S. Storage </h1>
+	<nav> 
+		<UL> 
+			<LI><a href="dank.html"> Home </a></LI> 
+			<LI><a href="memes.html"> Price </a></LI> 
+		</UL> 
+	</nav>
 </header>
 
 <aside>
